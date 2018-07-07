@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+}
+.contactanos{
+    
+    color: white;
+    width: 70%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container2{
+    background-color: salmon;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0%;
+    align-content: center;
+}
+
+.btn-primary {
+    color: #333333;
+    background-color: white;
+    border-color: white;
+}
+.redesSociales{
+    text-align: center;
+}
+.fab{
+    font-size: 200%;
+    padding-right: 20px;
+}
